@@ -15,15 +15,6 @@ This project implements a **.NET Core Web API** to manage a list of blocked coun
 - ✅ Logs all blocked attempts with IP, timestamp, country code, and user agent.
 - ✅ Swagger UI for full API documentation and testing.
 
----
-
-## 🧩 Requirements
-
-- [.NET 7 or higher](https://dotnet.microsoft.com/download)
-- Browser (for accessing Swagger UI)
-- Third-party API key from:
-  - [ipapi.co](https://ipapi.co/api/?utm_source=project_readme)
-  - Or [IPGeolocation.io](https://ipgeolocation.io)
 
 ---
 
@@ -109,7 +100,7 @@ BlockedCountriesApi/
 
 ---
 
-## 🧪 Unit Tests (Optional but Included)
+## 🧪 Unit Tests 
 
 Unit tests are available for core functionalities:
 - Adding/removing countries
@@ -123,7 +114,13 @@ Unit tests are available for core functionalities:
 
 - ✔️ Full Swagger integration for API documentation.
 - ✔️ Interactive UI for testing endpoints directly.
-- Access at: `https://localhost:5001/swagger`
+- Access at: `https://localhost:7288/swagger/index.html`
+- __________________________________________________
+- ![image](https://github.com/user-attachments/assets/258e2b19-7f51-47db-904f-ab75b8e8d55f)
+- __________________________________________________
+- ![image](https://github.com/user-attachments/assets/e390cc45-7f90-4dca-99a0-8175c589552b)
+
+
 
 ---
 
@@ -141,22 +138,11 @@ Unit tests are available for core functionalities:
 
 ---
 
-## 📤 Submission
-
-Send this project to:
-
-📧 **dev@atechnologies.info**  
-CC: mamoun@atechnologies.info, hr-egy@atechnologies.info
-
----
-
 ## 🙏 Developed by
 
-- **Shams Eldin Abdelhadi**
-- **Contact**: shams@example.com
+- **Hagar Atia**
+- **Contact**: shamsatia96@gmail.com
 - **Date**: April 2025
 
 ---
 
-هل تحب أن أرسل لك هذا الملف كـ `README.md` جاهز؟  
-أو هل تحب أن أضيف تعليمات رفع المشروع على GitHub مباشرة؟ 😊
