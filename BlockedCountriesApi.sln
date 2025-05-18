@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockedCountriesApi", "BlockedCountriesApi.csproj", "{13A98262-AD5D-41EC-9E64-F266E96BDD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A98262-AD5D-41EC-9E64-F266E96BDD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A98262-AD5D-41EC-9E64-F266E96BDD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A98262-AD5D-41EC-9E64-F266E96BDD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A98262-AD5D-41EC-9E64-F266E96BDD74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7509EE-0D5F-4B67-ABA8-FBF5104F8CD1}
+	EndGlobalSection
+EndGlobal
