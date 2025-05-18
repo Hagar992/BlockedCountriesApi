@@ -115,10 +115,10 @@ Unit tests are available for core functionalities:
 - ✔️ Full Swagger integration for API documentation.
 - ✔️ Interactive UI for testing endpoints directly.
 - Access at: `https://localhost:7288/swagger/index.html`
-- __________________________________________________
-- ![image](https://github.com/user-attachments/assets/258e2b19-7f51-47db-904f-ab75b8e8d55f)
-- __________________________________________________
-- ![image](https://github.com/user-attachments/assets/e390cc45-7f90-4dca-99a0-8175c589552b)
+ __________________________________________________
+ ![image](https://github.com/user-attachments/assets/258e2b19-7f51-47db-904f-ab75b8e8d55f)
+
+![image](https://github.com/user-attachments/assets/e390cc45-7f90-4dca-99a0-8175c589552b)
 
 
 
