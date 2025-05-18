@@ -12,7 +12,6 @@ builder.Services.AddSingleton<IBlockedCountryService, BlockedCountryService>();
 builder.Services.AddSingleton<IBlockedAttemptsLogger, BlockedAttemptsLogger>();
 builder.Services.AddHttpClient<IGeoLocationService, GeoLocationService>();
 
-// Register background service (سنكتبه لاحقًا)
 builder.Services.AddHostedService<TemporalBlockCleaner>();
 
 // Swagger
