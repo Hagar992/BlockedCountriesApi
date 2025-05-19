@@ -89,7 +89,6 @@ BlockedCountriesApi/
 ├── Controllers/               # API endpoints
 ├── Models/                    # Data models
 ├── Services/                  # Business logic
-├── Interfaces/                # Service interfaces
 ├── Storage/                   # In-memory storage
 ├── BackgroundTasks/           # Temporal block cleaner
 ├── Helpers/                   # Utility functions
@@ -97,16 +96,6 @@ BlockedCountriesApi/
 ├── Properties/                # appsettings.json
 └── Program.cs                 # Entry point
 ```
-
----
-
-## 🧪 Unit Tests 
-
-Unit tests are available for core functionalities:
-- Adding/removing countries
-- Validating country codes and durations
-- Managing temporal blocks
-- Logging blocked attempts
 
 ---
 
